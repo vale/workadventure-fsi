@@ -3,5 +3,5 @@
 // You can write your WorkAdventure script here, if any.
 // The "WA" global object is available from anywhere.
 
-console.log('Script started successfully');
+console.log('Welcome to the virtual FSI room!');
 WA.openCoWebSite('https://fsi.cs.fau.de/dw/');
